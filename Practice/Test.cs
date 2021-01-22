@@ -10,7 +10,7 @@ namespace Practice
     {
         public void tt()
         {
-            Console.WriteLine("method parent");
+            Console.WriteLine("method parent 1");
             Console.ReadLine();
         }
     }
