@@ -1,0 +1,7 @@
+D:\Practice\Practice\bin\Debug\Practice.exe.config
+D:\Practice\Practice\bin\Debug\Practice.exe
+D:\Practice\Practice\bin\Debug\Practice.pdb
+D:\Practice\Practice\obj\Debug\Practice.csprojAssemblyReference.cache
+D:\Practice\Practice\obj\Debug\Practice.csproj.CoreCompileInputs.cache
+D:\Practice\Practice\obj\Debug\Practice.exe
+D:\Practice\Practice\obj\Debug\Practice.pdb
